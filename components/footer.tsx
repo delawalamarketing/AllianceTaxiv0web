@@ -45,13 +45,20 @@ export function Footer() {
                 <br />
                 <a 
                   href={SITE_CONFIG.phoneLink}
-                  className="text-primary-foreground hover:underline"
+                  className="text-primary-foreground hover:underline font-semibold"
                 >
                   {SITE_CONFIG.phone}
                 </a>
               </p>
+              <p>
+                <span className="text-primary-foreground/70">Address:</span>
+                <br />
+                <span className="text-primary-foreground">
+                  {SITE_CONFIG.address.formatted}
+                </span>
+              </p>
               <p className="text-primary-foreground/70">
-                {SITE_CONFIG.serviceArea.primary}
+                Serving {SITE_CONFIG.serviceArea.description.toLowerCase()}
               </p>
             </div>
           </div>

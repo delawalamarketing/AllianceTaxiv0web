@@ -10,8 +10,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Alliance Taxi - Barrie, ON',
-  description: 'Professional taxi service in Barrie. No surge pricing, flat airport rates. Call (705) 794-1111.',
+  title: 'Alliance Taxi Barrie - Barrie, ON',
+  description: 'Professional taxi service in Barrie. Visit us at 4 Ferris Ln, Barrie, ON L4M 2X7 or call (705) 794-1111. No surge pricing, flat airport rates.',
   generator: 'v0.app',
   icons: {
     icon: [

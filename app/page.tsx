@@ -20,7 +20,7 @@ export const metadata = {
 };
 
 const faqItems = [
-  { question: 'Do you have surge pricing?', answer: 'No. Alliance Taxi never charges surge pricing.' },
+  { question: 'Do you have surge pricing?', answer: 'No. Alliance Taxi Barrie never charges surge pricing.' },
   { question: 'What are your airport rates?', answer: 'We offer flat, upfront rates for trips from Barrie to Toronto Pearson Airport.' },
   { question: 'How long does a taxi usually take to arrive?', answer: 'Response times vary based on location and availability.' },
   { question: 'Do you accept credit cards?', answer: 'Yes. We accept both cash and major credit cards.' },

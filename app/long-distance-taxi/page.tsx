@@ -47,7 +47,7 @@ export default function LongDistancePage() {
             
             <div className="space-y-6 text-foreground">
               <p className="text-lg text-muted-foreground">
-                Need a taxi for a trip beyond our regular local service area? Alliance Taxi offers custom quotes for long-distance travel. Whether you&apos;re heading to another city, a special event, or anywhere else, we&apos;ll work with you to provide transparent pricing.
+                Need a taxi for a trip beyond our regular local service area? Alliance Taxi Barrie offers custom quotes for long-distance travel. Whether you&apos;re heading to another city, a special event, or anywhere else, we&apos;ll work with you to provide transparent pricing.
               </p>
               
               <div className="bg-card border border-border rounded-lg p-6">

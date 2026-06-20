@@ -11,8 +11,10 @@ export function generateOrganizationSchema() {
     telephone: SITE_CONFIG.phone,
     address: {
       '@type': 'PostalAddress',
-      addressLocality: SITE_CONFIG.serviceArea.primary,
-      addressRegion: 'ON',
+      streetAddress: SITE_CONFIG.address.streetAddress,
+      addressLocality: SITE_CONFIG.address.addressLocality,
+      addressRegion: SITE_CONFIG.address.addressRegion,
+      postalCode: SITE_CONFIG.address.postalCode,
       addressCountry: 'CA',
     },
     areaServed: {

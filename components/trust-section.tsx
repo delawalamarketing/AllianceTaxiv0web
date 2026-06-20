@@ -6,7 +6,7 @@ export function TrustSection() {
     <section className="w-full py-16 md:py-24 bg-card border-t border-border">
       <div className="max-w-6xl mx-auto px-4 md:px-6">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-balance">
-          Why Barrie Trusts Alliance Taxi
+          Why Barrie Trusts Alliance Taxi Barrie
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">

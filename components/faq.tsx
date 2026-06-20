@@ -11,7 +11,7 @@ interface FAQItem {
 const faqItems: FAQItem[] = [
   {
     question: 'Do you have surge pricing?',
-    answer: 'No. Alliance Taxi never charges surge pricing. We believe in fair, transparent rates for all our customers, no matter what time of day or local demand.'
+    answer: 'No. Alliance Taxi Barrie never charges surge pricing. We believe in fair, transparent rates for all our customers, no matter what time of day or local demand.'
   },
   {
     question: 'What are your airport rates?',
@@ -31,7 +31,7 @@ const faqItems: FAQItem[] = [
   },
   {
     question: 'Are your drivers professional and vetted?',
-    answer: 'Yes. All Alliance Taxi drivers are professional, experienced, and familiar with the Barrie area. We prioritize passenger safety and comfort.'
+    answer: 'Yes. All Alliance Taxi Barrie drivers are professional, experienced, and familiar with the Barrie area. We prioritize passenger safety and comfort.'
   },
   {
     question: 'Do you service long-distance trips?',
@@ -46,7 +46,7 @@ const faqItems: FAQItem[] = [
     answer: 'Your feedback is important to us. Please call with concerns or compliments. We&apos;re committed to providing excellent service every time.'
   },
   {
-    question: 'Is Alliance Taxi available 24/7?',
+    question: 'Is Alliance Taxi Barrie available 24/7?',
     answer: 'Call us to confirm our current availability. We aim to serve your transportation needs whenever you need us.'
   }
 ];

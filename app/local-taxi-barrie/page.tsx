@@ -9,7 +9,7 @@ import { SchemaScript } from '@/components/schema-script';
 import { generateServiceSchema } from '@/lib/schema';
 
 export const metadata = {
-  title: 'Local Taxi Service Barrie | Alliance Taxi',
+  title: 'Local Taxi Service Barrie | Alliance Taxi Barrie',
   description: 'Quick, reliable local taxi service in Barrie and surrounding towns. Professional drivers, fair rates.',
   openGraph: {
     title: 'Local Taxi Service in Barrie',
@@ -49,7 +49,7 @@ export default function LocalTaxiPage() {
             
             <div className="space-y-6 text-foreground">
               <p className="text-lg text-muted-foreground">
-                Whether you need a ride to the grocery store, doctor&apos;s appointment, or around town, Alliance Taxi is here for you. Our local drivers know Barrie and the surrounding areas well, ensuring efficient and reliable service.
+                Whether you need a ride to the grocery store, doctor&apos;s appointment, or around town, Alliance Taxi Barrie is here for you. Our local drivers know Barrie and the surrounding areas well, ensuring efficient and reliable service.
               </p>
               
               <div>

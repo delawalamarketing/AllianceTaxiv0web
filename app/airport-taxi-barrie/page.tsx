@@ -9,7 +9,7 @@ import { SchemaScript } from '@/components/schema-script';
 import { generateServiceSchema } from '@/lib/schema';
 
 export const metadata = {
-  title: 'Airport Taxi Barrie to Toronto Pearson | Alliance Taxi',
+  title: 'Airport Taxi Barrie to Toronto Pearson | Alliance Taxi Barrie',
   description: 'Flat upfront rates from Barrie to Toronto Pearson Airport. No surge pricing. Professional, reliable service.',
   openGraph: {
     title: 'Barrie to Pearson Airport Taxi',
@@ -47,7 +47,7 @@ export default function AirportTaxiPage() {
             
             <div className="space-y-6 text-foreground">
               <p className="text-lg text-muted-foreground">
-                Traveling from Barrie to Toronto Pearson Airport? Alliance Taxi offers professional, dependable service with transparent, upfront pricing. No surge pricing, no hidden fees—just honest rates you can count on.
+                Traveling from Barrie to Toronto Pearson Airport? Alliance Taxi Barrie offers professional, dependable service with transparent, upfront pricing. No surge pricing, no hidden fees—just honest rates you can count on.
               </p>
               
               <div className="bg-card border border-border rounded-lg p-6">
@@ -79,7 +79,7 @@ export default function AirportTaxiPage() {
               <div>
                 <h3 className="font-semibold text-xl mb-3">Our Promise</h3>
                 <p className="text-muted-foreground">
-                  We understand that airport travel requires reliability. Alliance Taxi is committed to getting you to Toronto Pearson on time, safely, and affordably. Our drivers are familiar with the route and traffic patterns, ensuring an efficient journey.
+                  We understand that airport travel requires reliability. Alliance Taxi Barrie is committed to getting you to Toronto Pearson on time, safely, and affordably. Our drivers are familiar with the route and traffic patterns, ensuring an efficient journey.
                 </p>
               </div>
               

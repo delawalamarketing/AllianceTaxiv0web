@@ -41,6 +41,13 @@ export const SITE_CONFIG = {
       slug: '/long-distance-taxi',
       description: 'Extended trips & custom quotes',
       keywords: 'long distance taxi, custom quotes'
+    },
+    {
+      id: 'wheelchair',
+      name: 'Wheel Chair Taxi',
+      slug: '/wheelchair-taxi-barrie',
+      description: 'Safe, accessible transportation with certified drivers & specialized vehicles',
+      keywords: 'wheelchair taxi Barrie, accessible taxi, wheelchair transport Barrie'
     }
   ],
   

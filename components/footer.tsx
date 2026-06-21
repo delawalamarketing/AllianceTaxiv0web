@@ -65,8 +65,21 @@ export function Footer() {
         </div>
         
         {/* Bottom */}
-        <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-primary-foreground/70">
-          <p>&copy; {currentYear} {SITE_CONFIG.name}. All rights reserved.</p>
+        <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-primary-foreground/70 gap-4">
+          <div>
+            <p>&copy; {currentYear} {SITE_CONFIG.name}. All rights reserved.</p>
+            <p className="mt-1">
+              Website built and SEO managed by{' '}
+              <a 
+                href="https://www.delawalamarketing.com/" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="hover:text-primary-foreground underline transition-colors"
+              >
+                Delawala Marketing
+              </a>
+            </p>
+          </div>
           <div className="flex gap-6 mt-4 md:mt-0">
             <Link href="/privacy" className="hover:text-primary-foreground transition-colors">
               Privacy

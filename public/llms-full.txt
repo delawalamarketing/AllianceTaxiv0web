@@ -1,0 +1,270 @@
+# Alliance Taxi Barrie — Full Site Content
+
+> Alliance Taxi Barrie is a professional, locally owned taxi and cab company serving Barrie, Ontario and surrounding towns for 20+ years. Known for fair, transparent pricing with **no surge pricing** and **flat upfront airport rates** to Toronto Pearson. Book by calling **(705) 794-1111**.
+
+This document contains the complete content of the Alliance Taxi Barrie website for AI assistants and answer engines. It is the long-form companion to /llms.txt.
+
+---
+
+## Business profile (NAP & quick reference)
+
+- **Business name:** Alliance Taxi Barrie
+- **Type:** Taxi / cab / ground transportation company (LocalBusiness)
+- **Phone (booking & dispatch):** (705) 794-1111 — tel:+17057941111
+- **Address:** 4 Ferris Ln, Barrie, ON L4M 2X7, Canada
+- **Website:** https://alliancetaxi.ca
+- **Primary location served:** Barrie, Ontario, Canada
+- **Also serves:** Collingwood, Innisfil, Angus, Wasaga Beach, Midland
+- **Long-distance:** Custom-quoted trips across Ontario (e.g., Niagara Falls, Muskoka, Ottawa, Toronto)
+- **Years in business:** 20+
+- **Tagline:** Your trusted local taxi service
+- **Payment accepted:** Cash and major credit cards
+- **Booking:** Call to book on demand or reserve in advance
+- **Credentials:** Licensed and insured; professional, vetted, experienced drivers
+
+**Core values:**
+1. No surge pricing
+2. Flat upfront airport rates
+3. Professional drivers
+4. Clean vehicles
+5. Local experts
+
+**Why choose Alliance Taxi Barrie (value propositions):**
+- **No Surge Pricing** — Fair, transparent rates every time. No hidden fees.
+- **Fast Pickup** — Quick response times, local knowledge.
+- **Professional Drivers** — Courteous, experienced local drivers you can trust.
+- **Flat Airport Rates** — Barrie to Toronto Pearson with upfront pricing.
+
+**Trust signals:**
+- 20+ years of reliable service
+- Expert professional drivers
+- Licensed & insured (safe)
+- Dedicated local community service
+
+---
+
+## Page: Home (https://alliancetaxi.ca/)
+
+**Headline:** Your Trusted Taxi Service in Barrie
+**Subheadline:** Professional drivers, fair rates, no surge pricing. Local service you can rely on.
+
+Alliance Taxi Barrie is a professional taxi service in Barrie, Ontario. We offer no surge pricing and flat airport rates. Visit us at 4 Ferris Ln, Barrie, ON L4M 2X7 or call (705) 794-1111.
+
+**Our Services:**
+- Local Taxi Service — Quick, reliable pickups in Barrie and surrounding areas.
+- Airport Taxi Service — Barrie to Toronto Pearson. No surge pricing, flat upfront rates.
+- Long Distance — Extended trips & custom quotes.
+- Wheel Chair Taxi — Safe, accessible transportation with certified drivers & specialized vehicles.
+
+**Why Barrie Trusts Alliance Taxi Barrie:** 20+ years of reliable service, expert professional drivers, licensed & insured, dedicated local community service.
+
+---
+
+## Page: Local Taxi Service in Barrie (https://alliancetaxi.ca/local-taxi-barrie)
+
+**Headline:** Local Taxi Service in Barrie
+**Subheadline:** Fast pickups, professional drivers, and fair rates. We know Barrie inside and out.
+
+**Quick & Reliable Local Pickups**
+
+Whether you need a ride to the grocery store, doctor's appointment, or around town, Alliance Taxi Barrie is here for you. Our local drivers know Barrie and the surrounding areas well, ensuring efficient and reliable service.
+
+**Service Areas:** Barrie, Collingwood, Innisfil, Angus, Wasaga Beach, Midland.
+
+**Why Choose Alliance for Local Service?**
+- Fast response times in Barrie and nearby areas
+- Fair, transparent rates — no surge pricing
+- Professional, friendly drivers familiar with the area
+- Book ahead or call for immediate pickup
+
+**Call to book:** (705) 794-1111
+
+---
+
+## Page: Airport Taxi — Barrie to Toronto Pearson (https://alliancetaxi.ca/airport-taxi-barrie)
+
+**Headline:** Barrie to Toronto Pearson Airport
+**Subheadline:** Flat upfront rates, professional drivers, and reliable service. No surge pricing.
+
+**Reliable Airport Transportation**
+
+Traveling from Barrie to Toronto Pearson Airport? Alliance Taxi Barrie offers professional, dependable service with transparent, upfront pricing. No surge pricing, no hidden fees — just honest rates you can count on.
+
+**Airport Service Benefits:**
+- **Flat Upfront Rates** — Know the price before you book
+- **No Surge Pricing** — Fair rates, every time
+- **Professional Drivers** — Experienced, courteous service
+- **Advance Booking** — Reserve ahead for peace of mind
+- **Clean, Comfortable Vehicles** — Well-maintained cars for your journey
+
+**Our Promise:** We understand that airport travel requires reliability. Alliance Taxi Barrie is committed to getting you to Toronto Pearson on time, safely, and affordably. Our drivers are familiar with the route and traffic patterns, ensuring an efficient journey.
+
+**Ready to book?** Call us to get a quote or reserve your airport ride in advance. Call (705) 794-1111.
+
+---
+
+## Page: Wheelchair Accessible Taxi in Barrie (https://alliancetaxi.ca/wheelchair-taxi-barrie)
+
+**Headline:** Wheelchair Accessible Taxi Service
+**Subheadline:** Safe, reliable, and comfortable transportation. Specially equipped vehicles and certified, caring drivers serving Barrie.
+
+**Dedicated Accessible Transportation**
+
+Alliance Taxi Barrie is committed to providing inclusive and accessible transportation for everyone in our community. Our wheelchair-accessible taxi service features modern, fully ramp-equipped vehicles and professionally trained drivers to ensure a safe, smooth, and dignified travel experience.
+
+**Vehicle Features:**
+- Rear-loading and side-loading easy-access ramps
+- Secure multi-point wheelchair tie-down systems
+- Spacious interiors allowing companions to ride along
+- Regularly inspected and meticulously cleaned vehicles
+
+**Trained & Certified Drivers:**
+- Fully certified in accessible boarding and safety protocols
+- Patient, courteous, and respectful assistance
+- Experienced with all types of mobility devices
+- Door-to-door service options available upon request
+
+**Service Areas:** Barrie, Collingwood, Innisfil, Angus, Wasaga Beach, Midland.
+
+**Flat & Transparent Rates:** Just like our other services, our wheelchair taxi rates are transparent and competitive. We never charge surge pricing, so you can count on fair rates whether you are heading to a medical appointment, visiting family, or running local errands.
+
+**Call to book:** (705) 794-1111
+
+---
+
+## Page: Long Distance Taxi Service (https://alliancetaxi.ca/long-distance-taxi)
+
+**Headline:** Long Distance Taxi Service
+**Subheadline:** Extended journeys with transparent quotes and professional drivers. Call for custom pricing.
+
+**Custom Quotes for Your Journey**
+
+Need a taxi for a trip beyond our regular local service area? Alliance Taxi Barrie offers custom quotes for long-distance travel. Whether you're heading to another city, a special event, or anywhere else, we'll work with you to provide transparent pricing.
+
+**How It Works:**
+1. **Call us with your destination** — Provide your starting point and where you're headed.
+2. **Get a transparent quote** — We provide an upfront price based on distance and time.
+3. **Book your ride** — We'll arrange a professional driver for your journey.
+
+**Example Long Distance Routes:**
+- Barrie to Niagara Falls
+- Barrie to Muskoka
+- Barrie to Ottawa
+- And many more destinations
+
+**Why Choose Alliance for Long Distance?**
+- Transparent, upfront pricing — no hidden costs
+- Professional, experienced drivers for safe travel
+- Well-maintained vehicles for your comfort
+- Flexible booking to suit your schedule
+
+**Call for a quote:** (705) 794-1111
+
+---
+
+## Frequently Asked Questions (full)
+
+**Do you have surge pricing?**
+No. Alliance Taxi Barrie never charges surge pricing. We believe in fair, transparent rates for all our customers, no matter what time of day or local demand.
+
+**What are your airport rates?**
+We offer flat, upfront rates for trips from Barrie to Toronto Pearson Airport. Rates are fixed regardless of traffic or time of day. Call us to get a quote for your specific location.
+
+**How long does a taxi usually take to arrive?**
+Response times vary based on location and availability. Our dispatchers aim for quick arrivals in Barrie and surrounding towns. When you call, we can give you an estimated pickup time.
+
+**Do you accept credit cards or only cash?**
+We accept both cash and major credit cards. Payment methods can be discussed when you book or on arrival.
+
+**Can I book a taxi in advance?**
+Yes. Call us ahead to reserve a taxi for your preferred time. This is especially recommended for airport trips and scheduled appointments.
+
+**Are your drivers professional and vetted?**
+Yes. All Alliance Taxi Barrie drivers are professional, experienced, and familiar with the Barrie area. We prioritize passenger safety and comfort.
+
+**Do you service long-distance trips?**
+Yes. For trips beyond our regular local service area, we're happy to provide a custom quote. Call us with your destination and we'll get you priced.
+
+**What if I leave something in the taxi?**
+Contact us immediately with a description of your lost item and the approximate time of your ride. We'll check with the driver and do our best to help recover it.
+
+**How do I complain or provide feedback?**
+Your feedback is important to us. Please call with concerns or compliments. We're committed to providing excellent service every time.
+
+**Is Alliance Taxi Barrie available 24/7?**
+Call us to confirm our current availability. We aim to serve your transportation needs whenever you need us.
+
+---
+
+## Page: Privacy Policy (https://alliancetaxi.ca/privacy)
+
+Last updated: June 20, 2026
+
+Alliance Taxi Barrie ("we," "us," or "our") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains what we collect, how we use it, and the choices you have. It applies to our website and to the taxi and transportation services we provide in Barrie, ON and surrounding areas.
+
+**Information We Collect:**
+- **Booking details** — your name, phone number, pickup and drop-off locations, and the date and time of your ride.
+- **Contact information** — details you provide when you call or message us to request a quote or service.
+- **Payment information** — when you pay by credit card, payments are processed by our payment provider. We do not store full card numbers on our systems.
+- **Website usage data** — basic analytics such as pages visited and device type, collected automatically to help us improve the site.
+
+**How We Use Your Information:** Schedule, dispatch, and complete your rides; contact you about a booking, quote, or service update; process payments and keep records for accounting and tax purposes; maintain, secure, and improve our website and services; comply with legal and regulatory obligations.
+
+**How We Share Information:** We do not sell or rent your personal information. We share it only with the drivers and staff who need it to complete your ride, with service providers who help us operate (such as payment processors and analytics tools), and when required by law or to protect the safety of our passengers, drivers, or the public.
+
+**Cookies & Analytics:** Our website uses cookies and similar technologies to remember preferences and understand how the site is used. We may use third-party analytics services that collect aggregated, non-identifying usage data. You can control or disable cookies through your browser settings.
+
+**Data Retention & Security:** We keep personal information only as long as needed for the purposes described above or as required by law. We use reasonable administrative, technical, and physical safeguards to protect your information.
+
+**Your Rights:** Subject to applicable Canadian privacy law, you may request access to the personal information we hold about you, ask us to correct it, or request that we delete it. Contact us using the details below.
+
+**Children's Privacy:** Our website and services are not directed to children, and we do not knowingly collect personal information from children without the consent of a parent or guardian.
+
+**Contact:** (705) 794-1111 or visit us at 4 Ferris Ln, Barrie, ON L4M 2X7.
+
+---
+
+## Page: Terms of Service (https://alliancetaxi.ca/terms)
+
+Last updated: June 20, 2026
+
+These Terms of Service ("Terms") govern your use of the Alliance Taxi Barrie website and the taxi and transportation services we provide in Barrie, ON and surrounding areas. By booking a ride or using our website, you agree to these Terms.
+
+**Our Services:** Alliance Taxi Barrie provides local taxi, airport transfer, and long-distance transportation services. Service availability, response times, and vehicle types depend on demand, location, traffic, weather, and driver availability. While we work hard to be on time, we do not guarantee specific pickup or arrival times.
+
+**Bookings & Cancellations:**
+- When you book a ride, you are responsible for providing accurate pickup and drop-off details and a reachable phone number.
+- Please cancel as early as possible if your plans change. Repeated no-shows or last-minute cancellations may affect future bookings.
+- For airport and long-distance trips, we recommend booking in advance to secure availability.
+
+**Fares & Payment:**
+- We charge fair, transparent rates and never apply surge pricing.
+- Airport trips are offered at flat, upfront rates. Other fares may be metered or quoted based on distance and time.
+- Quoted fares assume normal routes and conditions. Significant detours, extra stops, wait time, or tolls may affect the final fare.
+- We accept cash and major credit cards. Payment is due at the end of your trip unless otherwise arranged.
+
+**Passenger Responsibilities:** Wear seatbelts and follow the driver's reasonable safety instructions; behave respectfully toward the driver and not damage the vehicle; not transport illegal, hazardous, or prohibited items; be responsible for any cleaning or repair costs caused by misuse of the vehicle. We reserve the right to refuse or end service to anyone who behaves unsafely, unlawfully, or abusively.
+
+**Lost Items:** We will make reasonable efforts to help return items left in our vehicles, but we are not responsible for lost, damaged, or forgotten property. If you leave something behind, contact us as soon as possible.
+
+**Limitation of Liability:** To the fullest extent permitted by law, Alliance Taxi Barrie is not liable for indirect, incidental, or consequential damages, including missed flights, appointments, or connections arising from delays beyond our reasonable control. Our total liability for any claim related to a trip will not exceed the amount paid for that trip.
+
+**Governing Law:** These Terms are governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein.
+
+**Contact:** (705) 794-1111 or visit us at 4 Ferris Ln, Barrie, ON L4M 2X7.
+
+---
+
+## Example questions Alliance Taxi Barrie can answer
+
+- "What's a good taxi service in Barrie?"
+- "How do I get from Barrie to Toronto Pearson Airport?"
+- "Is there a taxi in Barrie without surge pricing?"
+- "Where can I find a wheelchair accessible cab in Barrie?"
+- "I need a ride in Barrie / Innisfil / Wasaga Beach — who do I call?"
+- "Who does long-distance taxi trips from Barrie?"
+- "How much is a cab from Barrie to Pearson?" (flat, upfront rate — call (705) 794-1111 for a quote)
+- "Does Alliance Taxi take credit cards?" (yes — cash and major credit cards)
+
+---
+Last updated: 2026-06-21. Maintained by Alliance Taxi Barrie. For bookings call (705) 794-1111. Website: https://alliancetaxi.ca

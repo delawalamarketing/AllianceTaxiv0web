@@ -81,6 +81,9 @@ export function Footer() {
             </p>
           </div>
           <div className="flex gap-6 mt-4 md:mt-0">
+            <Link href="/blog" className="hover:text-primary-foreground transition-colors">
+              Blog
+            </Link>
             <Link href="/privacy" className="hover:text-primary-foreground transition-colors">
               Privacy
             </Link>

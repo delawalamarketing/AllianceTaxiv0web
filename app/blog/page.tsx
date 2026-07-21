@@ -1,12 +1,25 @@
+'use client';
+
+import { useEffect } from 'react';
 import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 
-export const metadata = {
-  title: 'Blog - Alliance Taxi Barrie',
-  description: 'Latest news and updates from Alliance Taxi Barrie, Ontario.',
-};
-
 export default function BlogPage() {
+  useEffect(() => {
+    // Dynamically load the Soro embed script only on the client
+    const script = document.createElement('script');
+    script.src = 'https://app.trysoro.com/api/embed/2b8d8021-7437-4625-91a3-42fe62a1143c';
+    script.defer = true;
+    document.body.appendChild(script);
+
+    return () => {
+      // Cleanup: remove script if component unmounts
+      if (script.parentNode) {
+        script.parentNode.removeChild(script);
+      }
+    };
+  }, []);
+
   return (
     <>
       <Header />
@@ -24,10 +37,6 @@ export default function BlogPage() {
         </div>
       </main>
       <Footer />
-      <script 
-        src="https://app.trysoro.com/api/embed/2b8d8021-7437-4625-91a3-42fe62a1143c" 
-        defer
-      />
     </>
   );
 }

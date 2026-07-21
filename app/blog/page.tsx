@@ -6,9 +6,9 @@ import { Footer } from '@/components/footer';
 
 export default function BlogPage() {
   useEffect(() => {
-    // Dynamically load the Soro embed script only on the client
+    // Dynamically load the Soro embed script only on the client with dark theme
     const script = document.createElement('script');
-    script.src = 'https://app.trysoro.com/api/embed/2b8d8021-7437-4625-91a3-42fe62a1143c';
+    script.src = 'https://app.trysoro.com/api/embed/2b8d8021-7437-4625-91a3-42fe62a1143c?theme=dark';
     script.defer = true;
     document.body.appendChild(script);
 
@@ -31,7 +31,7 @@ export default function BlogPage() {
           </div>
           
           {/* Soro Blog Embed */}
-          <div className="bg-white rounded-lg shadow-lg p-6">
+          <div className="rounded-lg shadow-lg p-6">
             <div id="soro-blog"></div>
           </div>
         </div>

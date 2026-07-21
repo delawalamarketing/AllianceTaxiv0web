@@ -3,11 +3,12 @@
 import Link from 'next/link';
 import { SITE_CONFIG } from '@/lib/site';
 import { CallButton } from '@/components/call-button';
+import { MobileMenu } from '@/components/mobile-menu';
 
 export function Header() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-border bg-background/95 backdrop-blur">
-      <div className="max-w-6xl mx-auto px-4 md:px-6 h-16 flex items-center justify-between">
+      <div className="max-w-6xl mx-auto px-4 md:px-6 h-16 flex items-center justify-between relative">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
           <div className="w-8 h-8 rounded-full bg-accent flex items-center justify-center text-accent-foreground font-bold">
@@ -26,10 +27,16 @@ export function Header() {
           <Link href="/#services" className="text-sm font-medium text-foreground hover:text-accent transition-colors">
             Services
           </Link>
+          <Link href="/blog" className="text-sm font-medium text-foreground hover:text-accent transition-colors">
+            Blog
+          </Link>
           <Link href="/#faq" className="text-sm font-medium text-foreground hover:text-accent transition-colors">
             FAQ
           </Link>
         </nav>
+        
+        {/* Mobile Menu */}
+        <MobileMenu />
         
         {/* Phone CTA */}
         <div className="flex items-center gap-4">

@@ -31,7 +31,7 @@ export default function BlogPage() {
           </div>
           
           {/* Soro Blog Embed */}
-          <div className="rounded-lg shadow-lg p-6">
+          <div className="bg-white rounded-lg shadow-lg p-6">
             <div id="soro-blog"></div>
           </div>
         </div>

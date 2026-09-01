@@ -5,7 +5,7 @@ export function generateOrganizationSchema() {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     name: SITE_CONFIG.name,
-    image: SITE_CONFIG.baseUrl + '/logo.png',
+    image: SITE_CONFIG.logoUrl,
     description: SITE_CONFIG.description,
     url: SITE_CONFIG.baseUrl,
     telephone: SITE_CONFIG.phone,

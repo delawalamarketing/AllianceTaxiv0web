@@ -3,7 +3,8 @@ export const SITE_CONFIG = {
   description: 'Professional taxi service in Barrie, ON. No surge pricing, flat airport rates. Visit us at 4 Ferris Ln, Barrie, ON L4M 2X7 or call (705) 794-1111.',
   phone: '(705) 794-1111',
   phoneLink: 'tel:+17057941111',
-  analyticsId: 'G-XXXXXXXXXX', // Placeholder - replace with actual ID
+  analyticsId: 'G-X5Z2L80LB9',
+  logoUrl: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Alliance%20Taxi%20logo-suL3yJRrSUEseXXYlw9DaxIqGgFEYQ.jpg',
   baseUrl: 'https://alliancetaxi.ca',
   
   address: {

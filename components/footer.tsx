@@ -10,6 +10,11 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           {/* Brand */}
           <div>
+            <img
+              src={SITE_CONFIG.logoUrl}
+              alt={`${SITE_CONFIG.name} logo`}
+              className="mb-4 h-20 w-20 rounded-md object-contain"
+            />
             <h3 className="text-lg font-bold mb-2">{SITE_CONFIG.name}</h3>
             <p className="text-sm text-primary-foreground/80 mb-4">
               {SITE_CONFIG.companyInfo.tagline}

@@ -10,12 +10,18 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
           {/* Brand */}
           <div>
-            <img
-              src={SITE_CONFIG.logoUrl}
-              alt={`${SITE_CONFIG.name} logo`}
-              className="mb-4 h-20 w-20 rounded-md object-contain"
-            />
-            <h3 className="text-lg font-bold mb-2">{SITE_CONFIG.name}</h3>
+            <Link
+              href="/"
+              className="inline-flex flex-col items-start rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-foreground focus-visible:ring-offset-2 focus-visible:ring-offset-primary"
+              aria-label={`${SITE_CONFIG.name} home`}
+            >
+              <img
+                src={SITE_CONFIG.logoUrl}
+                alt={`${SITE_CONFIG.name} logo`}
+                className="mb-4 h-20 w-20 rounded-md object-contain"
+              />
+              <h3 className="text-lg font-bold">{SITE_CONFIG.name}</h3>
+            </Link>
             <p className="text-sm text-primary-foreground/80 mb-4">
               {SITE_CONFIG.companyInfo.tagline}
             </p>
